@@ -3,4 +3,4 @@
 ***Scuola:*** ITIS A.Volta, Pg;
 ***Classe*** 4^Ainf;
 ***Corso di studio*** TPSIT;
-  questo progetto serve per poter simulare l'arlgolritmp....
+
